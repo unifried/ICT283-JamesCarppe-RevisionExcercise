@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1709376088 source:e:\university\ict283\program\source\c-change-calculator-codeblocks\calculator.c
+	<stdio.h>
+	<stdlib.h>
+	"currency.h"
+	"calculator.h"
+
+1709432779 e:\university\ict283\program\source\c-change-calculator-codeblocks\currency.h
+
+1709375835 e:\university\ict283\program\source\c-change-calculator-codeblocks\calculator.h
+
+1709433079 source:e:\university\ict283\program\source\c-change-calculator-codeblocks\currency.c
+	<stdio.h>
+	<string.h>
+	"currency.h"
+
+1709345125 source:e:\university\ict283\program\source\c-change-calculator-codeblocks\files.c
+	<stdio.h>
+	<stdlib.h>
+	"files.h"
+
+1709215658 e:\university\ict283\program\source\c-change-calculator-codeblocks\files.h
+
+1709476483 source:e:\university\ict283\program\source\c-change-calculator-codeblocks\interface.c
+	<stdio.h>
+	<stdlib.h>
+	"customer.h"
+	"currency.h"
+	"calculator.h"
+	"currency.h"
+	"interface.h"
+	<string.h>
+	"currency.h"
+
+1709469430 e:\university\ict283\program\source\c-change-calculator-codeblocks\customer.h
+
+1709476189 e:\university\ict283\program\source\c-change-calculator-codeblocks\interface.h
+
+1709478621 source:e:\university\ict283\program\source\c-change-calculator-codeblocks\loader.c
+	<stdio.h>
+	<stdlib.h>
+	"currency.h"
+	"loader.h"
+	"customer.h"
+	"files.h"
+
+1709434612 e:\university\ict283\program\source\c-change-calculator-codeblocks\loader.h
+
+1709478686 source:e:\university\ict283\program\source\c-change-calculator-codeblocks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"currency.h"
+	"customer.h"
+	"calculator.h"
+	"interface.h"
+	"loader.h"
+
+1709477754 source:e:\university\ict283\program\source\c-change-calculator-codeblocks\math.c
+	"math.h"
+
+1709477616 e:\university\ict283\program\source\c-change-calculator-codeblocks\math.h
+
+1709720573 source:e:\university\ict283\program\source\c-change-calculator-codeblocks\customer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"math.h"
+	"customer.h"
+	"currency.h"
+
